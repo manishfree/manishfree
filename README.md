@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishfree
 - 👀 I’m interested in creating apps.
-- 🌱 I’m currently learning kotlin and android studi
+- 🌱 I’m currently learning kotlin and android studio
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me nbjkb
 
